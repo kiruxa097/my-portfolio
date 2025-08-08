@@ -1,6 +1,6 @@
 # My portfolio
 
-Projects and achievements on the way to a career as a developer (Python and other programming languages)
+Доброго времени суток! Я Кирилл, студент ННГУ им. Лобачевского на направлении ПМИ. Интересуюсь программированием и всем, что связано с IT. Хочу развиваться в сфере разработки и создавать полезные и интересные проекты.
 
 ## Обо мне 👨‍💻
 
@@ -11,4 +11,15 @@ Projects and achievements on the way to a career as a developer (Python and othe
 ## Мои достижения 📈
 
 - [Курс "Информатика для программистов" - СПбПУ (2024)] (https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_inf_prog.pdf)
-- [Курс "Введение в программирование на языке Python" - СПбПУ (2024)]
+- [Курс "Введение в программирование на языке Python" - СПбПУ (2024)] (https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_py.pdf)
+- ["Поколение Python" Курс для начинающих - Stepik (2025)] tomorrow
+- ["Поколение Python" Курс для продвинутых - Stepik (2025)] (I'm going through)
+
+## Мои проекты 🗂️
+
+-
+-
+
+## Контакты ☎️
+
+- tg: @kiruxa097 
