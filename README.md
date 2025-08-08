@@ -10,15 +10,15 @@
 
 ## Мои достижения 📈
 
-- [Курс "Информатика для программистов" - СПбПУ (2024)] (https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_inf_prog.pdf)
-- [Курс "Введение в программирование на языке Python" - СПбПУ (2024)] (https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_py.pdf)
-- ["Поколение Python" Курс для начинающих - Stepik (2025)] tomorrow
-- ["Поколение Python" Курс для продвинутых - Stepik (2025)] (I'm going through)
+- [Курс "Информатика для программистов" - СПбПУ (2024)](https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_inf_prog.pdf)
+- [Курс "Введение в программирование на языке Python" - СПбПУ (2024)](https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_py.pdf)
+- ["Поколение Python" Курс для начинающих - Stepik (2025)] - добавлю завтра
+- ["Поколение Python" Курс для продвинутых - Stepik (2025)] - начинаю проходить
 
 ## Мои проекты 🗂️
 
--
--
+-(Здесь будут мои проекты - скоро добавлю)
+-(Идеи для проектов: чат-бот, игра на Python)
 
 ## Контакты ☎️
 
