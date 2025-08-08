@@ -10,4 +10,5 @@ Projects and achievements on the way to a career as a developer (Python and othe
 
 ## Мои достижения 📈
 
-- [Курс "Информатика для программистов" - СПбПУ (2024)] ()
+- [Курс "Информатика для программистов" - СПбПУ (2024)] (https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_inf_prog.pdf)
+- [Курс "Введение в программирование на языке Python" - СПбПУ (2024)]
