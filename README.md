@@ -14,7 +14,7 @@
 - [Курс "Введение в программирование на языке Python" - СПбПУ (2024)](https://github.com/kiruxa097/my-portfolio/raw/main/certificates/cert_py.pdf)
 - ["Поколение Python" Курс для начинающих - Stepik (2025)](https://github.com/kiruxa097/my-portfolio/raw/main/certificates/97%25.pdf)
 - ["Поколение Python" Курс для продвинутых - Stepik (2025)] - начинаю проходить
-- ["Введение в программирование (C++) - Stepik(Академия Яндекса + ВШЭ)] - прохожу
+- ["Введение в программирование (C++) - Stepik(Академия Яндекса + ВШЭ)(2025)] - прохожу
 
 ## Мои проекты 🗂️
 
