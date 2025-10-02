@@ -21,7 +21,6 @@
 - [Курс "Введение в программирование на языке Python" - СПбПУ (2024)](https://disk.yandex.ru/i/HnHBQIqde7BIHQ)
 - ["Поколение Python" Курс для начинающих - Stepik (2025)](https://disk.yandex.ru/i/588xrCpxQO3y2A)
 - ["Поколение Python" Курс для продвинутых - Stepik (2025)](https://disk.yandex.ru/i/YLyGxXxQU5pu2A)
-- ["Введение в программирование (C++) - Stepik(Академия Яндекса + ВШЭ)(2025)] - прохожу
 
 ---
 
